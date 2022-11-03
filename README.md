@@ -38,7 +38,7 @@ Now we want to grant access for another google cloud account for our storage obj
 7. Go to IAM then click grant access.
 <br> ![Capture](Material/7.png) <br>
 
-8. Fill your another account. For this I am using another google account. Fill the “new principle” with your another account. Then assign role with custom role. And click save.
+8. Fill your another account. For this, I am using another google account. Fill the “new principle” with your another account. Then assign role with custom role. And click save.
 <br> ![Capture](Material/8.png) <br>
 
 9. Now I go to another account to test this role. Now you can see, in another account it have the project one. Choose this and go to cloud storage.
