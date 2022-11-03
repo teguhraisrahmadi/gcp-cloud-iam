@@ -50,4 +50,4 @@ Now we want to grant access for another google cloud account for our storage obj
 11. I can go through in to the bucket too.
 <br> ![Capture](Material/11.png) <br>
 
-12. Done, Thanks.
+Done, Thanks.
