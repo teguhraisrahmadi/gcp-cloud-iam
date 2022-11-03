@@ -3,17 +3,17 @@
 ## Work Instruction for Create Custom Role in Google IAM
 
 In this role I need permission for:
-a.	resourcemanager.projects.get
-b.	storage.buckets.list
-c.	storage.multipartUploads.abort
-d.	storage.multipartUploads.create
-e.	storage.multipartUploads.list
-f.	storage.multipartUploads.listParts
-g.	storage.objects.create
-h.	storage.objects.delete
-i.	storage.objects.get
-j.	storage.objects.list
-k.	storage.objects.update
+- resourcemanager.projects.get
+- storage.buckets.list
+- storage.multipartUploads.abort
+- storage.multipartUploads.create
+- storage.multipartUploads.list
+- storage.multipartUploads.listParts
+- storage.objects.create
+- storage.objects.delete
+- storage.objects.get
+- storage.objects.list
+- storage.objects.update
 
 1. Go to IAM menu, and create custom role. 
 <br> ![Capture](Material/1.png) <br>
