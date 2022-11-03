@@ -1,6 +1,6 @@
 # Google Cloud Platform
 
-## Work Instruction for Create Custom Role in Google IAM
+## Work Instruction for Create Custom Role in IAM
 
 In this role I need permission for:
 - resourcemanager.projects.get
